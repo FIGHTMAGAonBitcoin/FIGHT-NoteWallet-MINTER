@@ -6,6 +6,16 @@ The wallet is a simple CLI tool to manage Bitcoin and NOTE crypto assets.
 ## Installation
 install nodejs and npm or yarn or pnpm, first.
 
+```
+node --version >= 20
+```
+
+you can install multi version node use nvm 
+
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+```
+
 then install the dependencies.
 
 ```
